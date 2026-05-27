@@ -1,0 +1,81 @@
+branch_id,branch_name,city,state,region,branch_type,num_employees,open_year,monthly_deposit_target,is_active
+ACB-BR001,ACB Dallas - ACB-BR001,Dallas,TX,South,Full Service,9,2011,32670107.94,1
+ACB-BR002,ACB San Antonio - ACB-BR002,San Antonio,TX,South,Full Service,13,2016,44086983.87,1
+ACB-BR003,ACB Tampa - ACB-BR003,Tampa,FL,Southeast,Corporate,36,1995,107669579.33,1
+ACB-BR004,ACB Fresno - ACB-BR004,Fresno,CA,West,Drive-Through,8,2003,10296866.59,1
+ACB-BR005,ACB Winston-Salem - ACB-BR005,Winston-Salem,NC,Southeast,Full Service,15,2013,20030318.92,1
+ACB-BR006,ACB Charlotte - ACB-BR006,Charlotte,NC,Southeast,In-Store,13,2002,6429101.26,1
+ACB-BR007,ACB Atlanta - ACB-BR007,Atlanta,GA,Southeast,Drive-Through,21,2002,15396989.57,1
+ACB-BR008,ACB Newport News - ACB-BR008,Newport News,VA,Northeast,Full Service,44,2015,20395580.56,1
+ACB-BR009,ACB Augusta - ACB-BR009,Augusta,GA,Southeast,Full Service,26,1999,29990866.43,1
+ACB-BR010,ACB Aurora - ACB-BR010,Aurora,IL,Midwest,Corporate,31,2021,116578815.85,1
+ACB-BR011,ACB Macon - ACB-BR011,Macon,GA,Southeast,Full Service,33,2001,33348368.69,1
+ACB-BR012,ACB Austin - ACB-BR012,Austin,TX,South,Full Service,42,2013,25169847.41,1
+ACB-BR013,ACB Rockford - ACB-BR013,Rockford,IL,Midwest,Full Service,14,2005,28923349.31,1
+ACB-BR014,ACB San Antonio - ACB-BR014,San Antonio,TX,South,Full Service,27,2006,21709207.08,1
+ACB-BR015,ACB Austin - ACB-BR015,Austin,TX,South,Full Service,38,2006,30224961.41,1
+ACB-BR016,ACB Austin - ACB-BR016,Austin,TX,South,Drive-Through,17,1997,17571548.4,1
+ACB-BR017,ACB Richmond - ACB-BR017,Richmond,VA,Northeast,Full Service,20,1995,19736335.24,1
+ACB-BR018,ACB Toledo - ACB-BR018,Toledo,OH,Midwest,Full Service,22,1997,36679246.43,1
+ACB-BR019,ACB Chesapeake - ACB-BR019,Chesapeake,VA,Northeast,Full Service,35,1998,42711715.84,1
+ACB-BR020,ACB Rochester - ACB-BR020,Rochester,NY,Northeast,In-Store,43,2018,11847794.86,1
+ACB-BR021,ACB Clarksville - ACB-BR021,Clarksville,TN,South,Full Service,17,1998,31111473.54,1
+ACB-BR022,ACB Memphis - ACB-BR022,Memphis,TN,South,Full Service,31,2005,41714296.48,1
+ACB-BR023,ACB Rochester - ACB-BR023,Rochester,NY,Northeast,Full Service,41,2000,18353540.08,1
+ACB-BR024,ACB San Antonio - ACB-BR024,San Antonio,TX,South,Corporate,15,2018,57802895.06,0
+ACB-BR025,ACB Jacksonville - ACB-BR025,Jacksonville,FL,Southeast,Drive-Through,29,2010,14514104.15,1
+ACB-BR026,ACB San Diego - ACB-BR026,San Diego,CA,West,Drive-Through,20,2018,10780946.83,1
+ACB-BR027,ACB San Diego - ACB-BR027,San Diego,CA,West,Full Service,22,2006,35533759.37,1
+ACB-BR028,ACB Winston-Salem - ACB-BR028,Winston-Salem,NC,Southeast,In-Store,23,2005,5795423.17,1
+ACB-BR029,ACB Orlando - ACB-BR029,Orlando,FL,Southeast,Full Service,33,2004,40221957.07,1
+ACB-BR030,ACB Cleveland - ACB-BR030,Cleveland,OH,Midwest,Full Service,24,2004,37427986.44,1
+ACB-BR031,ACB Columbus - ACB-BR031,Columbus,GA,Southeast,Full Service,30,2019,20741540.97,1
+ACB-BR032,ACB Scottsdale - ACB-BR032,Scottsdale,AZ,West,Drive-Through,44,2008,14232603.72,1
+ACB-BR033,ACB Dallas - ACB-BR033,Dallas,TX,South,Full Service,22,2014,42183826.94,1
+ACB-BR034,ACB Orlando - ACB-BR034,Orlando,FL,Southeast,Full Service,42,2021,36336752.22,1
+ACB-BR035,ACB Naperville - ACB-BR035,Naperville,IL,Midwest,Full Service,44,2016,27105836.84,1
+ACB-BR036,ACB Toledo - ACB-BR036,Toledo,OH,Midwest,Full Service,26,2021,30098900.05,1
+ACB-BR037,ACB Clarksville - ACB-BR037,Clarksville,TN,South,Drive-Through,12,2013,8100319.84,1
+ACB-BR038,ACB Chicago - ACB-BR038,Chicago,IL,Midwest,Full Service,9,2009,42785797.22,1
+ACB-BR039,ACB Jacksonville - ACB-BR039,Jacksonville,FL,Southeast,Full Service,30,2009,32678042.4,1
+ACB-BR040,ACB Toledo - ACB-BR040,Toledo,OH,Midwest,Drive-Through,17,2015,10020178.78,1
+ACB-BR041,ACB Atlanta - ACB-BR041,Atlanta,GA,Southeast,Full Service,8,2012,18908482.07,1
+ACB-BR042,ACB Tampa - ACB-BR042,Tampa,FL,Southeast,Full Service,14,2020,43094309.79,1
+ACB-BR043,ACB San Jose - ACB-BR043,San Jose,CA,West,Drive-Through,34,2002,14889014.05,1
+ACB-BR044,ACB Greensboro - ACB-BR044,Greensboro,NC,Southeast,In-Store,27,2021,5626371.64,1
+ACB-BR045,ACB Fort Worth - ACB-BR045,Fort Worth,TX,South,Full Service,26,2018,29417379.16,1
+ACB-BR046,ACB San Antonio - ACB-BR046,San Antonio,TX,South,Full Service,26,2015,39350183.37,1
+ACB-BR047,ACB Winston-Salem - ACB-BR047,Winston-Salem,NC,Southeast,Full Service,32,2016,38779433.75,1
+ACB-BR048,ACB San Antonio - ACB-BR048,San Antonio,TX,South,Corporate,28,2004,86896412.68,1
+ACB-BR049,ACB Fort Worth - ACB-BR049,Fort Worth,TX,South,Full Service,26,2021,34672210.11,1
+ACB-BR050,ACB Richmond - ACB-BR050,Richmond,VA,Northeast,In-Store,18,1995,10753275.56,1
+ACB-BR051,ACB Durham - ACB-BR051,Durham,NC,Southeast,Drive-Through,15,1996,9922566.07,1
+ACB-BR052,ACB San Jose - ACB-BR052,San Jose,CA,West,Full Service,24,2002,32073775.49,1
+ACB-BR053,ACB Nashville - ACB-BR053,Nashville,TN,South,Corporate,27,2011,98606439.5,0
+ACB-BR054,ACB Joliet - ACB-BR054,Joliet,IL,Midwest,Drive-Through,38,1995,11550278.99,1
+ACB-BR055,ACB Macon - ACB-BR055,Macon,GA,Southeast,Corporate,11,2019,103754046.43,1
+ACB-BR056,ACB Dallas - ACB-BR056,Dallas,TX,South,Full Service,19,2014,26777669.45,1
+ACB-BR057,ACB Raleigh - ACB-BR057,Raleigh,NC,Southeast,Full Service,30,2006,40302672.64,0
+ACB-BR058,ACB Scottsdale - ACB-BR058,Scottsdale,AZ,West,In-Store,21,2009,8011348.62,1
+ACB-BR059,ACB Rockford - ACB-BR059,Rockford,IL,Midwest,Drive-Through,33,2000,9354642.99,1
+ACB-BR060,ACB Austin - ACB-BR060,Austin,TX,South,Full Service,39,2003,34960207.3,1
+ACB-BR061,ACB Orlando - ACB-BR061,Orlando,FL,Southeast,Full Service,28,2001,38984771.28,1
+ACB-BR062,ACB Houston - ACB-BR062,Houston,TX,South,Corporate,34,2001,88020648.69,1
+ACB-BR063,ACB Buffalo - ACB-BR063,Buffalo,NY,Northeast,Drive-Through,39,2013,8943011.9,1
+ACB-BR064,ACB Columbus - ACB-BR064,Columbus,GA,Southeast,Drive-Through,30,1995,8905178.21,1
+ACB-BR065,ACB Tampa - ACB-BR065,Tampa,FL,Southeast,Full Service,16,2017,37783058.05,1
+ACB-BR066,ACB Winston-Salem - ACB-BR066,Winston-Salem,NC,Southeast,Drive-Through,15,1998,10517552.21,1
+ACB-BR067,ACB Dallas - ACB-BR067,Dallas,TX,South,Full Service,20,2017,29959157.29,1
+ACB-BR068,ACB San Antonio - ACB-BR068,San Antonio,TX,South,Corporate,20,2009,55239398.0,1
+ACB-BR069,ACB Charlotte - ACB-BR069,Charlotte,NC,Southeast,Full Service,16,2008,25193595.43,1
+ACB-BR070,ACB Tucson - ACB-BR070,Tucson,AZ,West,Full Service,40,2010,39439997.25,1
+ACB-BR071,ACB Macon - ACB-BR071,Macon,GA,Southeast,Full Service,12,2013,24689303.02,0
+ACB-BR072,ACB Albany - ACB-BR072,Albany,NY,Northeast,Drive-Through,29,2012,16395875.14,1
+ACB-BR073,ACB Joliet - ACB-BR073,Joliet,IL,Midwest,Full Service,34,2015,34900509.01,1
+ACB-BR074,ACB Chesapeake - ACB-BR074,Chesapeake,VA,Northeast,Full Service,29,2019,35584873.46,1
+ACB-BR075,ACB Scottsdale - ACB-BR075,Scottsdale,AZ,West,Drive-Through,15,1995,15122663.87,1
+ACB-BR076,ACB Houston - ACB-BR076,Houston,TX,South,Drive-Through,21,2014,11004873.32,1
+ACB-BR077,ACB Macon - ACB-BR077,Macon,GA,Southeast,Drive-Through,22,2020,12511071.6,1
+ACB-BR078,ACB San Antonio - ACB-BR078,San Antonio,TX,South,In-Store,43,2000,6396415.12,1
+ACB-BR079,ACB New York City - ACB-BR079,New York City,NY,Northeast,Full Service,35,2021,31221452.75,1
+ACB-BR080,ACB Augusta - ACB-BR080,Augusta,GA,Southeast,Drive-Through,17,2013,13579877.08,1

@@ -1,0 +1,9 @@
+flag_category,total_loss,case_count,avg_loss
+Account Takeover,157029.02,47,3341.042978723404
+Transaction Velocity,130408.21,28,4657.436071428571
+Identity Theft,101659.42,32,3176.856875
+Card Not Present,20733.52,47,441.1387234042553
+Unusual Geography,14701.08,6,2450.18
+Synthetic Identity,14354.61,21,683.5528571428572
+Structuring,12255.54,3,4085.1800000000003
+Money Laundering Suspicion,1906.4499999999998,10,190.64499999999998
