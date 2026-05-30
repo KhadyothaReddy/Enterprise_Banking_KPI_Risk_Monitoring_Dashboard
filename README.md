@@ -1,5 +1,5 @@
-# Enterprise Banking KPI & Risk Monitoring Dashboard
-### Apex Capital Bank — Internal Analytics Initiative
+ Enterprise Banking KPI & Risk Monitoring Dashboard
+Apex Capital Bank — Internal Analytics Initiative
 
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 ![SQL](https://img.shields.io/badge/SQL-T--SQL-blue)
@@ -9,7 +9,7 @@
 
 ---
 
-## What This Project Is
+ What This Project Is
 
 This is an end-to-end enterprise analytics solution I built to simulate the kind of work done inside a bank's business intelligence team. The scenario is realistic: **Apex Capital Bank** — a mid-sized commercial and retail bank — needed a consolidated view of financial performance, operational health, and risk exposure. Their leadership was working off fragmented Excel reports that were 3–4 days stale.
 
@@ -19,7 +19,7 @@ The goal was to answer the questions executives actually ask, not just build som
 
 ---
 
-## Business Problem
+ Business Problem
 
 Apex Capital Bank's reporting was fragmented across six internal systems. The CFO, CRO, and Head of Retail Banking were working off Excel reports compiled manually — often arriving late, with inconsistent definitions for the same metrics. There was no early-warning system for fraud or delinquency trends.
 
@@ -32,7 +32,7 @@ Apex Capital Bank's reporting was fragmented across six internal systems. The CF
 
 ---
 
-## Architecture
+ Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -67,9 +67,9 @@ Apex Capital Bank's reporting was fragmented across six internal systems. The CF
 
 ---
 
-## KPIs Tracked
+ KPIs Tracked
 
-### Financial
+ Financial
 | KPI | Target |
 |-----|--------|
 | Net Interest Margin (NIM) | ≥ 3.2% |
@@ -77,7 +77,7 @@ Apex Capital Bank's reporting was fragmented across six internal systems. The CF
 | Cost-to-Income Ratio | ≤ 58% |
 | Revenue per Branch | Benchmark |
 
-### Risk
+Risk
 | KPI | Target |
 |-----|--------|
 | NPL Ratio | ≤ 1.8% |
@@ -85,7 +85,7 @@ Apex Capital Bank's reporting was fragmented across six internal systems. The CF
 | Fraud Transaction Rate | ≤ 0.08% |
 | High-Risk Customer % | ≤ 8% |
 
-### Operations
+ Operations
 | KPI | Target |
 |-----|--------|
 | Deposit Attainment | ≥ 100% |
@@ -95,7 +95,7 @@ Apex Capital Bank's reporting was fragmented across six internal systems. The CF
 
 ---
 
-## What I Built
+What I Built
 
 ### Phase 1 — Business Understanding
 Full project charter including stakeholder analysis, business problem definition, KPI framework, business rules, and realistic banking scenarios. This is the foundation that makes everything downstream defensible.
@@ -255,5 +255,5 @@ All data is synthetic and generated for analytical purposes. No real customer da
 
 ---
 
-*Built by: [Your Name] | Business Analytics Graduate Student*  
-*Connect on LinkedIn: [Your LinkedIn URL]*
+*Built by: Khadyothamani Atla | Business Analytics Graduate Student*  
+
